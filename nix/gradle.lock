@@ -1096,6 +1096,10 @@
       "hash": "sha256-IK0VIPYlz0Veav1ykJiDBtOpiG76mT4IYPur9Ls/e9o=",
       "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.4.0/lifecycle-common-2.4.0.jar"
     },
+    "lifecycle-common-2.4.0.module": {
+      "hash": "sha256-WtXq/CLosE5Y+oHRjSVwVilxl34Y8AlQC1vUSbxjN7w=",
+      "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.4.0/lifecycle-common-2.4.0.module"
+    },
     "lifecycle-common-2.4.0.pom": {
       "hash": "sha256-9kuiN1KUEE3V6PrnNFph1SGeCpTMIvJs72YwuwqQQjY=",
       "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.4.0/lifecycle-common-2.4.0.pom"
