@@ -112,6 +112,7 @@ let
               org.junit:junit-bom:5.9.2
               org.junit:junit-bom:5.9.3
               androidx.databinding:viewbinding:8.6.0
+              androidx.activity:activity:1.9.2
               com.android.tools.analytics-library:tracker:31.6.0
               com.android.tools.build:gradle-api:8.6.0
           '

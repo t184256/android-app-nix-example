@@ -41,8 +41,8 @@
       jdk = pkgs.jdk17_headless;
       # gradle = pkgs.gradle_8.unwrapped;
       gradle = pkgs.callPackage (pkgs.gradleGen {
-        version = "8.7";
-        hash = "sha256-VEw11r2Emuil7QvOo5umd9xA9J330YNVYVgtogCblh0=";
+        version = "8.14.3";
+        hash = "sha256-vXEQIhNJMGCVbsIp2Ua+7lcVjb2J0OYrkbyg+ixfNTE=";
         defaultJava = jdk;
       }) { };
 
